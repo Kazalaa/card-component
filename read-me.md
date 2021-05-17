@@ -1,3 +1,8 @@
+Challenge found in https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62
+
+
+STYLE GUIDE :
+
 # Front-end Style Guide
 
 ## Layout
