@@ -25,7 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution live URL here](https://www.frontendmentor.io/solutions/card-component-desktop-design-using-flexbox--krb9hixa)
+- Solution URL: [Solution Live URL](https://www.frontendmentor.io/solutions/card-component-desktop-design-using-flexbox--krb9hixa)
+- Preview Site: [Preview Site URL](https://kazalaa.github.io/card-component/)
 
 
 ### Built with
